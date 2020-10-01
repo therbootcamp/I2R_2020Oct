@@ -1,2 +1,5 @@
-# I2R_2020Oct
-Introduction to R
+# Applied ML @ Basel January 2019
+
+Notes (aka todo):
+
+Everything!
