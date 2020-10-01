@@ -5,7 +5,7 @@ author: "Einführung in die moderne Datenanalyse mit R<br>
     Basel R Bootcamp
   </a>
   <br>
-  <a href='https://therbootcamp.github.io/I2R_2020Aug/'>
+  <a href='https://therbootcamp.github.io/I2R_2020Okt/'>
     <i class='fas fa-clock' style='font-size:.9em;'></i>
   </a>&#8239; 
   <a href='https://therbootcamp.github.io'>
@@ -17,7 +17,7 @@ author: "Einführung in die moderne Datenanalyse mit R<br>
   <a href='https://www.linkedin.com/company/basel-r-bootcamp/'>
     <i class='fab fa-linkedin' style='font-size: .9em;'></i>
   </a>"
-date: "August 2020"
+date: "Oktober 2020"
 output:
   xaringan::moon_reader:
     css: ["default", "baselrbootcamp.css"]
@@ -647,7 +647,7 @@ knitr::include_graphics("https://github.com/rstudio/hex-stickers/raw/master/PNG/
 
 ---
 
-<iframe width="1000" height="600" src="https://shiny.rstudio.com/gallery/movie-explorer.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="1000" height="600" src="https://vac-lshtm.shinyapps.io/ncov_tracker/?_ga=2.157815026.975657143.1601587486-2064892133.1598629448" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -891,7 +891,7 @@ Das Netz ist vll. der beste Ort für Informationen über R.
 .pull-right45[
 
 <p align="center"><br><br>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdsm4niRCmExVvCpzhIqyaEWJsq7GPFjNihBvYDUt0It8hUfA/viewform?embedded=true" width="430" height="550" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeJoA4YAF6MP9YH0VqlqvC8FCoBeLzF_fu1NCsoaiVrue2Cug/viewform?embedded=true" width="430" height="550" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
 
 ]
 

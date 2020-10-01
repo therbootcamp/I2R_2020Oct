@@ -306,9 +306,7 @@ class: middle, center
 
 <i>Download</i>
 
-<h1><a href="https://raw.githubusercontent.com/therbootcamp/I2R_2020Aug/master/_download/code/I2R_code.zip" download>Code</a></h1>
-
-<h1><a href="https://raw.githubusercontent.com/therbootcamp/I2R_2020Aug/master/_download/data/I2R_data.zip" download>Daten</a></h1>
+<h1><a href="https://raw.githubusercontent.com/therbootcamp/I2R_2020Aug/master/_download/project/TheRBootcamp.zip" download>Projekt</a></h1>
 
 ---
 

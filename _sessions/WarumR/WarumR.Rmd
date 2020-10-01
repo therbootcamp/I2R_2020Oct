@@ -5,7 +5,7 @@ author: "Einführung in die moderne Datenanalyse mit R<br>
     The R Bootcamp
   </a>
   <br>
-  <a href='https://therbootcamp.github.io/I2R_2020Aug/'>
+  <a href='https://therbootcamp.github.io/I2R_2020Okt/'>
     <i class='fas fa-clock' style='font-size:.9em;'></i>
   </a>&#8239; 
   <a href='https://therbootcamp.github.io'>
@@ -17,7 +17,7 @@ author: "Einführung in die moderne Datenanalyse mit R<br>
   <a href='https://www.linkedin.com/company/basel-r-bootcamp/'>
     <i class='fab fa-linkedin' style='font-size: .9em;'></i>
   </a>"
-date: "August 2020"
+date: "Oktober 2020"
 output:
   xaringan::moon_reader:
     css: ["default", "baselrbootcamp.css"]
@@ -45,7 +45,7 @@ layout: true
     </a>
     <a href="https://therbootcamp.github.io/">
       <font color="#7E7E7E">
-      Einführung in die moderne Datenanalyse mit R | August 2020
+      Einführung in die moderne Datenanalyse mit R | Oktober 2020
       </font>
     </a>
     </span>
@@ -109,7 +109,7 @@ Financial times, July 2018
 
 ]
 
----
+<!---
 
 #  Daten revolutionieren die Medizin
 
@@ -118,7 +118,6 @@ Financial times, July 2018
   <font style="font-size:10px">from <a href="https://www.researchgate.net/publication/333228756_End-to-end_lung_cancer_screening_with_three-dimensional_deep_learning_on_low-dose_chest_computed_tomography">Ardila et al. (2019)</a></font>
 </p>
 
----
 
 #  Daten treiben Verkauf
 
@@ -127,7 +126,6 @@ Financial times, July 2018
   <font style="font-size:10px">from <a href="https://venturebeat.com/2018/07/19/how-olay-used-ai-to-double-its-conversion-rate/">venturebeat.com</a></font>
 </p>
 
----
 
 #  Daten dringen in unsere Privatssphäre ein
 
@@ -136,7 +134,6 @@ Financial times, July 2018
   <font style="font-size:10px">from <a href="https://www.pnas.org/content/112/4/1036">Youyou, Kosinski, & Stillwell (2019)</a></font>
 </p>
 
-<!---
 
 #  Daten haben klare Vorteile
 
@@ -166,6 +163,7 @@ Financial times, July 2018
   </td>
 </tr>
 </table>
+
 
 --->
 
@@ -199,7 +197,7 @@ Financial times, July 2018
 </tr>
 </table>
 
----
+<!---
 
 .pull-left3[
 
@@ -215,8 +213,6 @@ Financial times, July 2018
 </p>
 
 ]
-
----
 
 # Computing wird rasant schneller und billiger 
 
@@ -236,6 +232,8 @@ Financial times, July 2018
 </td>
 </tr>
 </table>
+
+--->
 
 ---
 
