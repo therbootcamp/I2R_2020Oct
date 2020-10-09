@@ -896,6 +896,7 @@ Das Netz ist vll. der beste Ort für Informationen über R.
 ]
 
 ---
+
 class: center, middle
 
 # Thank you! and one more thing...
